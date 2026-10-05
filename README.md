@@ -44,14 +44,54 @@ I’m a Computer Science Engineering (AI) student who enjoys turning ideas into 
 
 I like building products that make complicated tasks feel simpler—from finding relevant government schemes to understanding a meal or summarising a meeting.
 
-## Featured projects
+## Projects
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [**Scheme Companion**](https://github.com/vaibhavisingh876/scheme-companion) | Helps people discover relevant Indian government schemes using natural-language search, eligibility filters, and personalised recommendations. Supports English and Hinglish queries. | React · Node.js · PostgreSQL · Prisma · AI |
-| [**Dietly**](https://github.com/vaibhavisingh876/dietly) | An AI-assisted nutrition tracker for meal analysis, calories, hydration, progress, and pantry-based recipe suggestions. | React · Node.js · MongoDB · Groq |
-| [**FlowProof**](https://github.com/shreyarathore27/FlowProof) | A team fintech prototype that turns consented financial activity into clear insights and helps users explore relevant financial services. | React · TypeScript · Node.js · Express |
-| [**Meeting Summariser**](https://github.com/vaibhavisingh876/meeting_summarizer) | A Python project for transcribing meeting audio and generating summaries, with Markdown output. | Python · Whisper · GPT |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vaibhavisingh876/scheme-companion">🏛️ Scheme Companion</a></h3>
+      <p>Natural-language search se Indian government schemes dhoondo, eligibility samjho, aur personalised recommendations pao. English aur Hinglish queries supported.</p>
+      <sub>React · Node.js · PostgreSQL · Prisma · AI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vaibhavisingh876/dietly">🥗 Dietly</a></h3>
+      <p>AI-assisted nutrition app for meal analysis, calorie and water tracking, progress insights, and pantry-based recipe suggestions.</p>
+      <sub>React · Node.js · MongoDB · Groq</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shreyarathore27/FlowProof">💸 FlowProof</a></h3>
+      <p>Team fintech prototype that turns consented financial activity into understandable insights and helps users explore relevant financial services.</p>
+      <sub>Team project · React · TypeScript · Node.js · Express</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vaibhavisingh876/meeting_summarizer">🎙️ Meeting Summariser</a></h3>
+      <p>Python project for transcribing meeting audio, generating summaries, and exporting notes as Markdown.</p>
+      <sub>Python · Whisper · GPT</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vaibhavisingh876/SwarSaathi">🎵 SwarSaathi</a></h3>
+      <p>A JavaScript project with separate client and server apps.</p>
+      <sub>JavaScript · Client · Server</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vaibhavisingh876/rentify">🏠 Rentify</a></h3>
+      <p>A TypeScript project with a Prisma data layer.</p>
+      <sub>TypeScript · Prisma</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vaibhavisingh876/weather-app">🌦️ Weather App</a></h3>
+      <p>A React weather app.</p>
+      <sub>React · JavaScript</sub>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ## More projects
 
