@@ -1,9 +1,7 @@
 <div align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/181630388?v=4"
-    width="140"
-    alt="Vaibhavi Singh"
-  />
+  <div align="center">
+  <img src="./download (8).jpg" width="100%" alt="Vaibhavi's profile poster" />
+</div>
 
   <h1>Hi, I'm Vaibhavi 👋</h1>
 
