@@ -1,6 +1,6 @@
 <div align="center">
   <div align="center">
-  <img src="./download (8).jpg" width="100%" alt="Vaibhavi's profile poster" />
+  <img src="./download (8).jpg.jpeg" width="100%" alt="Vaibhavi's profile poster" />
 </div>
 
   <h1>Hi, I'm Vaibhavi 👋</h1>
