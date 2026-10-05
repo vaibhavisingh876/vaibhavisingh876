@@ -3,7 +3,7 @@
   <img src="./download (8).jpg.jpeg" width="100%" alt="Vaibhavi's profile poster" />
 </div>
 
-  <h1>Hi, I'm Vaibhavi 👋</h1>
+  <h1>Hi, I'm Vaibhavi </h1>
 
   <p>
     B.Tech · Computer Science Engineering (AI)<br />
