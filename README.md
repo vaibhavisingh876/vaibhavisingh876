@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**vaibhavisingh876/vaibhavisingh876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img
     src="https://avatars.githubusercontent.com/u/181630388?v=4"
@@ -25,14 +9,17 @@ Here are some ideas to get you started:
 
   <p>
     B.Tech · Computer Science Engineering (AI)<br />
-    I build practical apps with AI, web technologies, and thoughtful product design.
+    I enjoy building useful web apps and AI-powered tools.
   </p>
 
-  <a href="https://github.com/vaibhavisingh876">
-    <img src="https://img.shields.io/badge/GitHub-vaibhavisingh876-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  <a href="https://www.linkedin.com/in/vaibhavi-singh-a7a466328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/vaibhavisingh876?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-my_projects-6C63FF?style=for-the-badge" alt="Explore projects" />
+  <a href="mailto:vaibhavisingh945@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/vaibhavisingh876">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </div>
 
@@ -40,64 +27,36 @@ Here are some ideas to get you started:
 
 ## About me
 
-I’m a Computer Science Engineering (AI) student who enjoys turning ideas into useful software. My projects explore AI-powered tools, full-stack development, health, public-service discovery, finance, and everyday apps.
-
-I like building products that make complicated tasks feel simpler—from finding relevant government schemes to understanding a meal or summarising a meeting.
+I’m a Computer Science Engineering (AI) student interested in building practical software. My projects explore AI-powered applications, full-stack development, health, public-service discovery, finance, and productivity.
 
 ## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vaibhavisingh876/scheme-companion">🏛️ Scheme Companion</a></h3>
-      <p>Natural-language search se Indian government schemes dhoondo, eligibility samjho, aur personalised recommendations pao. English aur Hinglish queries supported.</p>
-      <sub>React · Node.js · PostgreSQL · Prisma · AI</sub>
-    </td>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/vaibhavisingh876/dietly">🥗 Dietly</a></h3>
-      <p>AI-assisted nutrition app for meal analysis, calorie and water tracking, progress insights, and pantry-based recipe suggestions.</p>
+      <p>An AI-assisted nutrition app for meal analysis, calorie and water tracking, progress insights, and pantry-based recipe suggestions.</p>
       <sub>React · Node.js · MongoDB · Groq</sub>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/vaibhavisingh876/scheme-companion">🏛️ Scheme Companion</a></h3>
+      <p>Discover Indian government schemes with natural-language search, eligibility filtering, and personalised recommendations. Supports English and Hinglish queries.</p>
+      <sub>React · Node.js · PostgreSQL · Prisma · AI</sub>
+    </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shreyarathore27/FlowProof">💸 FlowProof</a></h3>
-      <p>Team fintech prototype that turns consented financial activity into understandable insights and helps users explore relevant financial services.</p>
-      <sub>Team project · React · TypeScript · Node.js · Express</sub>
-    </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/vaibhavisingh876/meeting_summarizer">🎙️ Meeting Summariser</a></h3>
-      <p>Python project for transcribing meeting audio, generating summaries, and exporting notes as Markdown.</p>
+      <p>A Python project for transcribing meeting audio, generating summaries, and exporting notes as Markdown.</p>
       <sub>Python · Whisper · GPT</sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/vaibhavisingh876/SwarSaathi">🎵 SwarSaathi</a></h3>
-      <p>A JavaScript project with separate client and server apps.</p>
-      <sub>JavaScript · Client · Server</sub>
+      <h3><a href="https://github.com/shreyarathore27/FlowProof">💸 FlowProof</a></h3>
+      <p>A team fintech prototype that turns consented financial activity into clear insights and helps users explore relevant financial services.</p>
+      <sub>Team project · React · TypeScript · Node.js · Express</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vaibhavisingh876/rentify">🏠 Rentify</a></h3>
-      <p>A TypeScript project with a Prisma data layer.</p>
-      <sub>TypeScript · Prisma</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/vaibhavisingh876/weather-app">🌦️ Weather App</a></h3>
-      <p>A React weather app.</p>
-      <sub>React · JavaScript</sub>
-    </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
-
-## More projects
-
-- [**SwarSaathi**](https://github.com/vaibhavisingh876/SwarSaathi) — JavaScript project
-- [**Rentify**](https://github.com/vaibhavisingh876/rentify) — TypeScript project
-- [**Weather App**](https://github.com/vaibhavisingh876/weather-app) — React project
 
 ## Technologies I’ve used
 
@@ -111,7 +70,6 @@ I like building products that make complicated tasks feel simpler—from finding
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
 </p>
 
 ## GitHub activity
@@ -130,5 +88,5 @@ I like building products that make complicated tasks feel simpler—from finding
 </div>
 
 <div align="center">
-  <sub>Thanks for stopping by — have a look around my projects! ✨</sub>
+  <sub>Thanks for visiting my profile ✨</sub>
 </div>
